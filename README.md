@@ -72,7 +72,7 @@ endmodule
 
 Developed by:Kavya G  RegisterNumber:25018973
 ```
-Developed by: RegisterNumber:25018973*/
+Developed by: sanjay srisanth RegisterNumber:25018855
 
 # RTL Schematic
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/8a2130ef-793f-4dc4-afe8-48d071b1209f" />
